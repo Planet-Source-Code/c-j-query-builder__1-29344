@@ -1,0 +1,17 @@
+uctBuildQuery = 44, 44, 593, 392, C, 22, 22, 571, 370, C
+Globals = 110, 110, 659, 458, C
+Fields = 132, 132, 681, 480, C
+Field = 154, 154, 703, 502, C
+modClassIDGenerator = 0, 0, 549, 348, C
+InsertQuery = 22, 22, 571, 370, C
+UpdateQuery = 0, 0, 549, 348, C
+Domains = 44, 44, 593, 392, C
+Domain = 66, 66, 615, 414, C
+Criterion = 88, 88, 637, 436, C
+Criteria = 110, 110, 659, 458, C
+Orders = 132, 132, 681, 480, C
+Order = 154, 154, 703, 502, C
+SelectQuery = 88, 88, 637, 436, C
+Groups = 44, 44, 593, 392, C
+Group = 66, 66, 615, 414, C
+DeleteQuery = 66, 66, 615, 414, C
